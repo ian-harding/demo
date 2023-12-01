@@ -1,3 +1,4 @@
 # pizza
 pizza base
-tomota paste
+tomato paste
+cheese
